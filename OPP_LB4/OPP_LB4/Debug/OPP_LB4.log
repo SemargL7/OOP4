@@ -1,0 +1,7 @@
+﻿  OPP_LB4.cpp
+C:\Users\roman\source\repos\OPP_LB4\OPP_LB4\OPP_LB4.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\roman\source\repos\OPP_LB4\OPP_LB4\OPP_LB4.cpp(83,5): warning C4551: function call missing argument list
+C:\Users\roman\source\repos\OPP_LB4\OPP_LB4\OPP_LB4.cpp(83,14): warning C4551: function call missing argument list
+C:\Users\roman\source\repos\OPP_LB4\OPP_LB4\OPP_LB4.cpp(88,5): warning C4551: function call missing argument list
+C:\Users\roman\source\repos\OPP_LB4\OPP_LB4\OPP_LB4.cpp(88,14): warning C4551: function call missing argument list
+  OPP_LB4.vcxproj -> C:\Users\roman\source\repos\OPP_LB4\Debug\OPP_LB4.exe
